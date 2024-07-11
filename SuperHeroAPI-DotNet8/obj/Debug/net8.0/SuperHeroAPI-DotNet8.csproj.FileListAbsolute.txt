@@ -1,0 +1,8 @@
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.csproj.AssemblyReference.cache
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.AssemblyInfoInputs.cache
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.AssemblyInfo.cs
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.csproj.CoreCompileInputs.cache
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karansingh\source\repos\SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8\obj\Debug\net8.0\SuperHeroAPI-DotNet8.sourcelink.json
