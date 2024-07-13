@@ -9,10 +9,24 @@ namespace SuperHeroAPI_DotNet8.Controllers
     public class SuperHeroController : ControllerBase
     {
         [HttpGet]
-        public GetHero(int id)
+        public async Task<IActionResult> GetAllHeroes()
         {
-            if (id == 
-            return hero;
+            var heroes = new List<SuperHero>
+            {
+                new SuperHero
+                {
+                    Id = 1,
+                    Name = "Sipderman",
+                    FirstName = "Peter",
+                    LastName = "Parker",
+                    Place = "New York"
+                }
+
+            };
+
+            return Ok(heroes);
         }
+
+        
     }
 }
