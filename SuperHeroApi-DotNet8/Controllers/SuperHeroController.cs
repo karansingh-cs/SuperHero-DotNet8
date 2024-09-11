@@ -7,5 +7,6 @@ namespace SuperHeroApi_DotNet8.Controllers
     [ApiController]
     public class SuperHeroController : ControllerBase
     {
+        [HttpGet]
     }
 }
