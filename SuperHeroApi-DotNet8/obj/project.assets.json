@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Documents\\Coding Projects\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj",
+      "projectUniqueName": "C:\\Users\\karansingh\\Source\\Repos\\SuperHero-DotNet8\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj",
       "projectName": "SuperHeroApi-DotNet8",
-      "projectPath": "Z:\\Documents\\Coding Projects\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj",
+      "projectPath": "C:\\Users\\karansingh\\Source\\Repos\\SuperHero-DotNet8\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj",
       "packagesPath": "C:\\Users\\karansingh\\.nuget\\packages\\",
-      "outputPath": "Z:\\Documents\\Coding Projects\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\obj\\",
+      "outputPath": "C:\\Users\\karansingh\\Source\\Repos\\SuperHero-DotNet8\\SuperHeroApi-DotNet8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karansingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
