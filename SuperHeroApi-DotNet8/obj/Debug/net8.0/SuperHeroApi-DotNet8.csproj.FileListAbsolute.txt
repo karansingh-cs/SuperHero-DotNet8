@@ -30,3 +30,36 @@ Z:\Documents\Coding Projects\SuperHeroApi-DotNet8\SuperHeroApi-DotNet8\obj\Debug
 Z:\Documents\Coding Projects\SuperHeroApi-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.pdb
 Z:\Documents\Coding Projects\SuperHeroApi-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.genruntimeconfig.cache
 Z:\Documents\Coding Projects\SuperHeroApi-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\ref\SuperHeroApi-DotNet8.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.csproj.AssemblyReference.cache
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.AssemblyInfoInputs.cache
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.AssemblyInfo.cs
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.sourcelink.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\refint\SuperHeroApi-DotNet8.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.pdb
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\appsettings.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\SuperHeroApi-DotNet8.exe
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\SuperHeroApi-DotNet8.deps.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\SuperHeroApi-DotNet8.runtimeconfig.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\SuperHeroApi-DotNet8.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\SuperHeroApi-DotNet8.pdb
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets\msbuild.SuperHeroApi-DotNet8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets\msbuild.build.SuperHeroApi-DotNet8.props
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SuperHeroApi-DotNet8.props
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SuperHeroApi-DotNet8.props
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\scopedcss\bundle\SuperHeroApi-DotNet8.styles.css
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHer.6AC0744B.Up2Date
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\SuperHeroApi-DotNet8.genruntimeconfig.cache
+C:\Users\Karan\Documents\Career\Projects\DotNet8\SuperHero-DotNet8\SuperHeroApi-DotNet8\obj\Debug\net8.0\ref\SuperHeroApi-DotNet8.dll
