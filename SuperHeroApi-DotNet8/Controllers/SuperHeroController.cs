@@ -9,7 +9,7 @@ namespace SuperHeroApi_DotNet8.Controllers
     public class SuperHeroController : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAllHeroes()
+        public async Task<ActionResult<List<SuperHero>>> GetAllHeroes()
         {
             var heroes = new List<SuperHero>
             {
@@ -22,7 +22,6 @@ namespace SuperHeroApi_DotNet8.Controllers
                     Place = "New York City"
 
                 }
-
             };
 
             return Ok(heroes);
