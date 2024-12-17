@@ -11,8 +11,8 @@ using SuperHeroApi_DotNet8.Data;
 namespace SuperHeroApi_DotNet8.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20241215050920_initial")]
-    partial class initial
+    [Migration("20241217040424_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
