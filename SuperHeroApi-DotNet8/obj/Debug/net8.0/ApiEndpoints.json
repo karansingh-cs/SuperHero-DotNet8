@@ -21,6 +21,32 @@
   },
   {
     "ContainingType": "SuperHeroApi_DotNet8.Controllers.SuperHeroController",
+    "Method": "AddHero",
+    "RelativePath": "api/SuperHero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hero",
+        "Type": "SuperHeroApi_DotNet8.Entities.SuperHero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SuperHeroApi_DotNet8.Entities.SuperHero, SuperHeroApi-DotNet8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SuperHeroApi_DotNet8.Controllers.SuperHeroController",
     "Method": "GetHero",
     "RelativePath": "api/SuperHero/{id}",
     "HttpMethod": "GET",
@@ -35,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[SuperHeroApi_DotNet8.Entities.SuperHero, SuperHeroApi-DotNet8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "SuperHeroApi_DotNet8.Entities.SuperHero",
         "MediaTypes": [
           "text/plain",
           "application/json",

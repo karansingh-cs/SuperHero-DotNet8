@@ -43,7 +43,17 @@ namespace SuperHeroApi_DotNet8.Controllers
             _context.SuperHeroes.Add(hero);
             await _context.SaveChangesAsync();
 
-            return Ok(await GetAllHeroes());
+            return Ok(await _context.SuperHeroes.ToListAsync());
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<List<SuperHero>>> UpdateHero(SuperHero hero)
+        {
+            _context.SuperHeroes.Add(hero);
+            await _context.SaveChangesAsync();
+
+            return Ok(await _context.SuperHeroes.ToListAsync());
+        }
+
     }
 }
