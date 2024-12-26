@@ -47,12 +47,33 @@ namespace SuperHeroApi_DotNet8.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<List<SuperHero>>> UpdateHero(SuperHero hero)
+        public async Task<ActionResult<List<SuperHero>>> UpdateHero(SuperHero updatedHero)
         {
-            _context.SuperHeroes.Add(hero);
-            await _context.SaveChangesAsync();
+            var dbHero = await _context.SuperHeroes.FindAsync(updatedHero.Id);
+            if (updatedHero is null)
+                return NotFound("Hero not found!");
 
+            dbHero.Name = updatedHero.Name;
+            dbHero.FirstName = updatedHero.FirstName;
+            dbHero.LastName = updatedHero.LastName;
+            dbHero.Place = updatedHero.Place;
+
+            await _context.SaveChangesAsync();
+             
             return Ok(await _context.SuperHeroes.ToListAsync());
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<SuperHero>> RemoveHero(int id)
+        {
+            var dbHero = await _context.SuperHeroes.FindAsync(id);
+            if (dbHero is null)
+                return NotFound("Hero Not Found");
+
+            _context.SuperHeroes.Remove(dbHero);
+            await _context.SaveChangesAsync();
+            return Ok(await _context.SuperHeroes.ToListAsync());
+
         }
 
     }
